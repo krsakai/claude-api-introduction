@@ -1,0 +1,20 @@
+[
+  {
+    "height": 180,
+    "weight": 75,
+    "goal": "筋肉量の増加",
+    "restrictions": "なし"
+  },
+  {
+    "height": 165,
+    "weight": 58,
+    "goal": "体脂肪の低減",
+    "restrictions": "乳製品アレルギー"
+  },
+  {
+    "height": 188,
+    "weight": 85,
+    "goal": "持久力の向上",
+    "restrictions": "ベジタリアン"
+  }
+]
